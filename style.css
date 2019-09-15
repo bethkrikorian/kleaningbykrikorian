@@ -5,6 +5,10 @@ title {
   font-family:arial;
 }
 
+body {
+  background-color:blue; 
+} 
+
 h1 { 
   text-align:center; 
   color: #ff0000;
