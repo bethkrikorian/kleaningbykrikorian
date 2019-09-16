@@ -10,7 +10,9 @@ h1 {
   font-size:40px;
   font-family:sans-serif;
   font-style:bold;
-  border:#E0E7E9;
+  border-style:solid;
+  border-radius:5px; 
+  border-color:#E0E7E9;
 } 
 
 p {
