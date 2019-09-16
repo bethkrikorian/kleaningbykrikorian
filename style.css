@@ -8,7 +8,7 @@ h1 {
   text-align:center; 
   color:#0C4A60;
   font-size:40px;
-  font-family:roman;
+  font-family:sans-serif;
   font-style:bold;
   border-style:solid;
   border-radius:5px; 
@@ -19,19 +19,19 @@ p {
   text-align:center;
   color:#0C4A60;
   font-size:30px;
-  font-family:roman;
+  font-family:sans-serif;
 }
 
 h2 {
   text-align:center;
   color:#E0E7E9;
   font-size:20px;
-  font-family:roman; 
+  font-family:sans-serif; 
 }
 
 h3 {
   text-align:center;
   color:#E0E7E9;
   font-size:20px;
-  font-family:roman; 
+  font-family:sans-serif; 
 } 
