@@ -47,21 +47,21 @@ p {
 
 a:link {
   text-decoration:underline; 
-  color:#EF6C33;
+  color:#934A5F;
   font-style:bold;
   font-family:sans-serif;
 }
 
 a:visited {
   text-decoration:underline; 
-  color:#EF6C33;
+  color:#934A5F;
   font-style:bold;
   font-family:sans-serif;
 }
 
 a:hover {
   text-decoration:underline; 
-  color:#0C4A60;
+  color:#E0E7E9;
   font-style:bolder; 
   font-family:sans-serif;
 }
