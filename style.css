@@ -45,7 +45,13 @@ h4 {
   color:#E0E7E9;
 }
 
-a {
+a:link {
+  text-decoration:underline; 
+  color:#D3AC2B;
+  font-style:bold;
+}
+
+a:visited {
   text-decoration:underline; 
   color:#D3AC2B;
   font-style:bold;
