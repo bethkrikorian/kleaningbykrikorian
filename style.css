@@ -45,13 +45,13 @@ h4 {
 }
 
 a {
-  text-decoration:none; 
+  text-decoration:underline; 
   color:#0C4A60;
   font-style:bold;
 }
 
 a:hover {
-  text-decoration:none; 
+  text-decoration:underline; 
   color:#E0E7E9;
   font-style:bolder; 
 }
