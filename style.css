@@ -16,14 +16,6 @@ h1 {
   margin-top:50px;
 } 
 
-p {
-  text-align:left;
-  margin-left:25px; 
-  color:#E0E7E9;
-  font-size:20px;
-  font-family:sans-serif;
-}
-
 h2 {
   text-align:center;
   color:#E0E7E9;
@@ -43,6 +35,14 @@ h4 {
   font-size:30px; 
   text-align:center
   color:#E0E7E9;
+}
+
+p {
+  text-align:left;
+  margin-left:25px; 
+  color:#E0E7E9;
+  font-size:20px;
+  font-family:sans-serif;
 }
 
 a:link {
