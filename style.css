@@ -40,20 +40,19 @@ h3 {
 h4 {
   font-family:sans-serif; 
   font-size:30px; 
-  text-align:left;
-  margin-left:25px;
+  text-align:center
   color:#E0E7E9;
 }
 
 a:link {
   text-decoration:underline; 
-  color:#D3AC2B;
+  color:#EF6C33;
   font-style:bold;
 }
 
 a:visited {
   text-decoration:underline; 
-  color:#D3AC2B;
+  color:#EF6C33;
   font-style:bold;
 }
 
