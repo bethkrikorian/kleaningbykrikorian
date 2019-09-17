@@ -53,14 +53,14 @@ a:link {
 
 a:visited {
   text-decoration:underline; 
-  color:#934A5F;
+  color:#4717F6;
   font-style:bold;
   font-family:sans-serif;
 }
 
 a:hover {
   text-decoration:underline; 
-  color:#E0E7E9;
+  color:#934A5F;
   font-style:bolder; 
   font-family:sans-serif;
 }
